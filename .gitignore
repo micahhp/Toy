@@ -1,0 +1,5 @@
+/**/.idea/*
+/**/.pynb_checkpoints/*
+.DS_Store
+
+*.txt
